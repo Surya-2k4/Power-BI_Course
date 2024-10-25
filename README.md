@@ -1,41 +1,26 @@
-# 📊 Power BI Course 🚀
+# 📊 Power BI Lab Experiments 🚀
 
-Welcome to the **Power BI Course** repository! Here, you'll find all the resources, tutorials, and projects needed to get hands-on experience with Power BI. Whether you're a beginner or looking to enhance your skills, this course will guide you through various aspects of Power BI for data analysis and visualization.
+Welcome to my **Power BI Lab Experiments** repository! This repo showcases a series of hands-on exercises and projects I completed as part of my journey to mastering Power BI. Each experiment focuses on a different aspect of Power BI, from data import to advanced visualization techniques.
 
-## 📘 Course Content:
+## 🔍 Experiment Topics
 
-1. **Introduction to Power BI** ✨
-   - What is Power BI?
-   - Key features and benefits
-
-2. **Data Importing & Modeling** 🗂️
-   - How to import data from various sources
-   - Building relationships between datasets
-
-3. **Data Transformation & Cleaning** 🧼
-   - Power Query Editor for data preparation
-   - Cleaning, filtering, and transforming data
-
-4. **Creating Visualizations** 📈
-   - Different types of charts and graphs
-   - Custom visuals and formatting options
-
-5. **Publishing & Sharing Reports** 🌐
-   - Publishing reports on Power BI Service
-   - Collaboration and sharing options
-
-6. **Power BI Dashboard Design** 🎨
-   - Building interactive dashboards
-   - Best practices for dashboard design
-
-## 🛠️ Prerequisites
-
-- Basic understanding of data analysis 📊
-- Power BI Desktop installed 💻
+1. Data Import Techniques 🗂️
+2. Data Transformation & Cleaning 🧼
+3. Building Data Models 🔗
+4. Calculated Columns & Measures 🔢
+5. Time Intelligence Functions ⏳
+6. Creating Basic Visualizations 📈
+7. Interactive Visualizations 🎛️
+8. Custom Visuals Integration 🎨
+9. Dashboard Design Principles 📋
+10. Power BI Service Publishing 🌐
+11. Report Sharing & Collaboration 👥
+12. Advanced Data Analysis Techniques 🧠
 
 ## 📦 Installation
 
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/).
-2. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/Power-BI_Course.git
+Download and install [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/).
+
+👨‍💻 Contributing
+
+If you have ideas or suggestions, please feel free to submit an issue or pull request.
