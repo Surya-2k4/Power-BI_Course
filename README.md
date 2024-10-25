@@ -4,18 +4,18 @@ Welcome to my **Power BI Lab Experiments** repository! This repo showcases a ser
 
 ## 🔍 Experiment Topics
 
-1. Data Import Techniques 🗂️
-2. Data Transformation & Cleaning 🧼
-3. Building Data Models 🔗
-4. Calculated Columns & Measures 🔢
-5. Time Intelligence Functions ⏳
-6. Creating Basic Visualizations 📈
-7. Interactive Visualizations 🎛️
-8. Custom Visuals Integration 🎨
-9. Dashboard Design Principles 📋
-10. Power BI Service Publishing 🌐
-11. Report Sharing & Collaboration 👥
-12. Advanced Data Analysis Techniques 🧠
+1. Import data into Power BI Desktop and perform basic operations 📥
+2. Develop a data model for the given problem 📊
+3. Create simple charts and graphs 📈
+4. Create and publish Power BI reports 📑
+5. Create Power BI Dashboards 🖥️
+6. Create a stacked bar chart 📊
+7. Apply filters in the report 🔍
+8. Connect Power BI Desktop with Power BI Services 🔗
+9. Create a map in Power BI 🗺️
+10. Create and format a slicer in Power BI 🎛️
+11. Demonstrate basic operations using Power Pivot in Excel 📊
+12. Perform data analytics with Pivot tables and charts 📉
 
 ## 📦 Installation
 
